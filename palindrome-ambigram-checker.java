@@ -15,6 +15,8 @@ class palinambichecker
             flag=1;
         }
         if(flag==0 && st.equals(t))
-        System.out.println("Pal-Ambi");
+        System.out.println("The number is Palindrome & Ambigram both");
+        else
+        System.out.println("The number is not Palindrome & Ambigram");
     }
 }
