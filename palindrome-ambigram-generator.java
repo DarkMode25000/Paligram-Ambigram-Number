@@ -1,5 +1,5 @@
 import java.util.*;
-class palambi
+class palambigen
 {
     public static String i(String s)
     {
