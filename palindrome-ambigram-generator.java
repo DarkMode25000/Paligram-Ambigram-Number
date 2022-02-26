@@ -1,5 +1,5 @@
 import java.util.*;
-class palambigen
+class palinambigen
 {
     public static String i(String s)
     {
